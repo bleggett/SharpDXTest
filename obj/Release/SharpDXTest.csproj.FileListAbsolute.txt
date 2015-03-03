@@ -1,0 +1,11 @@
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDXTest.exe.config
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDXTest.exe
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDXTest.pdb
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDX.dll
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDX.DXGI.dll
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDX.xml
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Release\SharpDX.DXGI.xml
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\obj\Release\SharpDXTest.exe
+C:\Users\bleggett\Documents\Visual Studio 2013\Projects\SharpDXTest\SharpDXTest\obj\Release\SharpDXTest.pdb

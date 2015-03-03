@@ -1,0 +1,12 @@
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDXTest.exe.config
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDXTest.exe
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDXTest.pdb
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDX.Direct2D1.dll
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDX.dll
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDX.DXGI.dll
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDX.xml
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDX.Direct2D1.xml
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\bin\Debug\SharpDX.DXGI.xml
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\obj\Debug\SharpDXTest.csprojResolveAssemblyReference.cache
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\obj\Debug\SharpDXTest.exe
+c:\users\bleggett\documents\visual studio 2013\Projects\SharpDXTest\SharpDXTest\obj\Debug\SharpDXTest.pdb
